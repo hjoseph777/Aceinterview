@@ -1,0 +1,6 @@
+Pywin32
+PyQt5
+faster-whisper
+Vosk
+Pyaudio
+Openai
